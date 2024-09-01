@@ -10,8 +10,8 @@ The Latin expression "De mortuis nil nisi bonum dicendum est", which translates 
 
 ## Contents
 
-- **Thesis**: [thesis.pdf](./thesis.pdf)
-- **Code**: [code](./code)
+- **Thesis full text**: [thesis.pdf](./thesis.pdf)
+- **Python code**: [code](./code)
 
 **Note**: Due to Event Registry's policy, the datasets of scraped articles cannot be shared.
 
