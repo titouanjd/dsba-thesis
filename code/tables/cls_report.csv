@@ -1,0 +1,6 @@
+,precision,recall,f1-score,support
+Post-death,0.8894,0.8632,0.8761,950
+Pre-death,0.8671,0.8926,0.8797,950
+accuracy,,,0.8779,1900
+macro avg,0.8782,0.8779,0.8779,1900
+weighted avg,0.8782,0.8779,0.8779,1900

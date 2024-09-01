@@ -1,0 +1,41 @@
+feature,group1,group2,meandiff,ci,p-adj
+industry,Academia,Cinema,-0.0719,[-0.183   0.0392],0.3936
+industry,Academia,Music,-0.1424,[-0.2538 -0.0309],0.0045
+industry,Academia,Public affairs,-0.2334,[-0.3479 -0.119 ],0.0
+industry,Academia,Sport,-0.2833,[-0.4006 -0.1661],0.0
+industry,Cinema,Music,-0.0705,[-0.1133 -0.0276],0.0001
+industry,Cinema,Public affairs,-0.1615,[-0.2117 -0.1113],0.0
+industry,Cinema,Sport,-0.2114,[-0.2678 -0.1551],0.0
+industry,Music,Public affairs,-0.0911,[-0.142  -0.0401],0.0
+industry,Music,Sport,-0.141,[-0.198 -0.084],0.0
+industry,Public affairs,Sport,-0.0499,[-0.1126  0.0128],0.1899
+cause,Accident,Assassination,0.0969,[-0.036   0.2298],0.3454
+cause,Accident,Cardiorespiratory,0.0592,[-0.0123  0.1306],0.191
+cause,Accident,Illness,0.142,[0.0746 0.2094],0.0
+cause,Accident,Natural,0.0605,[-0.0425  0.1634],0.6332
+cause,Accident,Overdose,-0.0635,[-0.1476  0.0205],0.2984
+cause,Accident,Suicide,0.172,[0.0812 0.2628],0.0
+cause,Accident,Undisclosed,-0.1658,[-0.2987 -0.0328],0.0039
+cause,Assassination,Cardiorespiratory,-0.0377,[-0.1631  0.0876],0.9849
+cause,Assassination,Illness,0.0451,[-0.078   0.1682],0.9544
+cause,Assassination,Natural,-0.0364,[-0.1821  0.1092],0.9951
+cause,Assassination,Overdose,-0.1604,[-0.2934 -0.0275],0.0062
+cause,Assassination,Suicide,0.0751,[-0.0622  0.2124],0.7138
+cause,Assassination,Undisclosed,-0.2627,[-0.4308 -0.0945],0.0001
+cause,Cardiorespiratory,Illness,0.0829,[0.0321 0.1337],0.0
+cause,Cardiorespiratory,Natural,0.0013,[-0.0916  0.0943],1.0
+cause,Cardiorespiratory,Overdose,-0.1227,[-0.1941 -0.0512],0.0
+cause,Cardiorespiratory,Suicide,0.1129,[0.0336 0.1921],0.0004
+cause,Cardiorespiratory,Undisclosed,-0.2249,[-0.3502 -0.0996],0.0
+cause,Illness,Natural,-0.0816,[-0.1714  0.0083],0.1079
+cause,Illness,Overdose,-0.2056,[-0.273  -0.1381],0.0
+cause,Illness,Suicide,0.03,[-0.0457  0.1056],0.9315
+cause,Illness,Undisclosed,-0.3078,[-0.4309 -0.1847],0.0
+cause,Natural,Overdose,-0.124,[-0.227 -0.021],0.0064
+cause,Natural,Suicide,0.1115,[0.003  0.2201],0.0389
+cause,Natural,Undisclosed,-0.2262,[-0.3719 -0.0806],0.0001
+cause,Overdose,Suicide,0.2355,[0.1447 0.3264],0.0
+cause,Overdose,Undisclosed,-0.1022,[-0.2352  0.0307],0.2762
+cause,Suicide,Undisclosed,-0.3378,[-0.4751 -0.2005],0.0
+age,20-29,40-49,-0.2552,[-0.3803 -0.1301],0.0
+age,20-29,50-59,0.116,[0.0469 0.1852],0.0

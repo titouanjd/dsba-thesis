@@ -1,0 +1,3 @@
+Period,mean,median,mode,std,var,skew,count
+Pre-death,-0.0471,-0.0118,0.1216,0.3167,0.1003,-0.0955,3800
+Post-death,0.0435,0.0667,0.098,0.257,0.066,-0.2393,3800
