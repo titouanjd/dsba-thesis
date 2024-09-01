@@ -12,7 +12,7 @@ The Latin expression "De mortuis nil nisi bonum dicendum est", which translates 
 
 - **Thesis full text**: [thesis.pdf](./thesis.pdf)
 - **Python code**: [code/thesis_main.ipynb](./code/thesis_main.ipynb)
-- **Celebrities dataset**: [code/data](./code/data)
+- **Celebrities dataset**: [code/data/celebrities.csv](./code/data/celebrities.csv)
 - **Google Trends datasets**: [code/data/trends](./code/data/trends)
 
 **Note**: Due to Event Registry's policy, the datasets of scraped articles cannot be shared. Those can be obtained by [buying an API key](https://www.newsapi.ai/) from Event Registry, storing it as a string variable named `API_KEY` inside the [code/config.py](./code/config.py) file and running the [code/thesis_main.ipynb](./code/thesis_main.ipynb) notebook.
