@@ -1,4 +1,4 @@
-# "Speaking Ill of the Dead": A statistical analysis of media sentiment before and after celebrity deaths
+# "Speaking Ill of the Dead": A Statistical Analysis of Media Sentiment Before and After Celebrity Deaths
 
 This repository contains my Master's thesis for Bocconi University's MSc in Data Science and Business Analytics ([DSBA](https://www.unibocconi.it/en/programs/master-science/data-science-and-business-analytics)). It explores the concept of death positivity bias (i.e., the tendency to speak more positively about those who passed).
 
