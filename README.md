@@ -11,6 +11,7 @@ The Latin expression "De mortuis nil nisi bonum dicendum est", which translates 
 ## Contents
 
 - **Thesis full text**: [thesis.pdf](./thesis.pdf)
+- **Thesis defense slides**: [slides.pdf](./slides.pdf)
 - **Python code**: [code/thesis_main.ipynb](./code/thesis_main.ipynb)
 - **Celebrities dataset**: [code/data/celebrities.csv](./code/data/celebrities.csv)
 - **Google Trends datasets**: [code/data/trends](./code/data/trends)
