@@ -21,4 +21,4 @@ The Latin expression "De mortuis nil nisi bonum dicendum est", which translates 
 
 ## Contact
 
-For further inquiries, feel free to reach out at [Titouan.Dupleich@studbocconi.it](mailto:Titouan.Dupleich@studbocconi.it).
+For further inquiries, reach out to [Titouan.Dupleich@studbocconi.it](mailto:Titouan.Dupleich@studbocconi.it).
